@@ -1,0 +1,160 @@
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+*{
+    margin:0;
+    padding: 0;
+}
+
+body{
+    font-family: "Young Serif", serif;
+}
+
+.container{
+    padding: 50px;
+}
+
+.section-one{
+    background-color: black;
+    color:white;
+    padding: 20px;
+
+}
+.section-one__name{
+    font-size: 60px;
+}
+.section-one__domain{
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+.contact{
+    background-color: #FF4500;
+    color: white;
+    text-decoration: none;
+    font-size: medium;
+    padding-left: 10px;
+    padding-right:10px;
+    padding-top:5px;
+    padding-bottom: 5px;
+    
+}
+.aboutme,.myInterest,.myProjects{
+        margin-top: 20px;
+}
+.myInterest{
+    background-color: #6462FD;
+    padding: 20px;
+    display: inline-block;
+    height: 200px;
+    vertical-align: top;
+    border-radius: 5px;
+    
+}
+.myinterest_list{
+    margin-left: 30px;
+}
+.myProjects{
+    background-color: #FE7517;
+    padding: 20px;
+    display: inline-block;
+    height: 200px;
+    border-radius: 5px;
+    margin-left: 20px;
+}
+.myProjects__list{
+    margin-left: 50px;
+}
+.myInterest__list,.myProjects__list{
+    list-style-type: none;
+}
+.footer{
+    background-color: black;
+    padding: 20px;
+    color:white;
+}
+.contact{
+    margin-top:20px;
+}
+
+.contact__input{
+    border: none;
+    border-bottom: 1px solid black;
+    padding:10px;
+    margin-top:10px;
+}
+
+.contact__textarea{
+    padding:10px;
+    margin-top:10px;
+}
+
+.contact__submit{
+    background-color: #FE7517;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-top:5px;
+    border: none;
+}
+.detials{
+    background-color: black;
+    color:white;
+    padding: 20px;
+    margin-top: 20px;
+    
+}
+.Home{
+    background-color: #FF4500;
+    color: white;
+    text-decoration: none;
+    font-size: medium;
+    padding-left: 10px;
+    padding-right:10px;
+    padding-top:5px;
+    padding-bottom: 5px;
+}
+.name{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom-color: black;
+}
+.email{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom-color: black;
+    margin-top: 20px;
+}
+.msg{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom-color: black;
+    margin-top: 20px;
+
+}
+.contact-form__submit{
+    background-color: #FF4500;
+    color: white;
+    text-decoration: none;
+    font-size: medium;
+    padding-left: 10px;
+    padding-right:10px;
+    padding-top:5px;
+    padding-bottom: 5px;
+    margin-left: 100px;
+    margin-top: 20px;
+    border: none;
+    cursor: pointer;
+}
+
+
+
+
+
+    
+
+    
+
+
+    
+
